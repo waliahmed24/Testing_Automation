@@ -6,5 +6,5 @@ needs to be set manually for now.
 
 To be able to run the file do the following:
 
-1) install and import the the library pyautogui
+1) install and import the the package pyautogui
 2) run the python file clicks.py
