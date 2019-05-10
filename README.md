@@ -1,4 +1,4 @@
-# Testing_Automation
+# Testing Automation
 
 The file clicks.py contains code for automating mouse clicks. The value within the for loop can be changed depending 
 on the desired number of clicks. This file however does not take into considration the position of the mouse pointer, and this 
